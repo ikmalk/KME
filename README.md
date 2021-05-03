@@ -7,4 +7,4 @@ cd [PATH-TO-PROJECT]
 git clone https://github.com/ikmalk/KME.git
 ```
 
-https://imgs.xkcd.com/comics/git.png 
+![Relevant xkcd](https://imgs.xkcd.com/comics/git.png) 
