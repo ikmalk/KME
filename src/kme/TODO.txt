@@ -1,0 +1,13 @@
+- Registration panel
+- Level Panel
+- Add store data system for user
+
+Graphic:
+- Create logo
+- Create png writing image for
+	- Login
+	- Statistic
+	- Home Page
+	- Profile
+	- Exercise
+- Back button logo
